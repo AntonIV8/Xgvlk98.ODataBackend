@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="DataLine.xgvlk98.Global" Language="C#" %>
